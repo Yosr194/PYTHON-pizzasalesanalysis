@@ -44,9 +44,9 @@ This project analyzes a pizza sales dataset to understand consumption patterns, 
 - **Revenue peak**: 12h-18h
 
 #### 📊 Category Analysis
-- **Classic**: 28.8% of sales
-- **Supreme**: 25.6% of sales
-- **Chicken**: 24.6% of sales
+- **Classic**: 26.9% of sales
+- **Supreme**: 25.5% of sales
+- **Chicken**: 24.0% of sales
 - **Veggie**: 23.7% of sales
 
 #### 🏆 Top & Bottom Performers
@@ -78,7 +78,7 @@ This project analyzes a pizza sales dataset to understand consumption patterns, 
 - **💰 Average daily revenue**: ~$116,837
 
 ### 🍕 Customer Preferences
-- **🏆 Most popular category**: Classic (28.8%)
+- **🏆 Most popular category**: Classic (26.9%)
 - **📏 Preferred size**: Large (dominant across all categories)
 - **👑 Best-selling pizza**: The Classic Deluxe Pizza
 
